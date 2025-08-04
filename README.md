@@ -6,12 +6,21 @@ BongMusic is a beautifully crafted, high-performance music player application bu
 
 - **Cross-Platform:** Single codebase for both Android and iOS, thanks to Flutter.
 - **Rich Audio & Video Playback:** Supports various audio formats with background playback capabilities powered by `just_audio` and `audio_service`.
-- **Offline Storage:** Save your favorite tracks and playlists for offline listening using the high-performance `Hive` database.
+- **Offline Storage:** Save your favorite tracks and playlists for offline listening.
+- **Playlist Management:** Create, edit, and manage your personal music playlists.
+- **Music Discovery:** Explore new music, artists, and albums.
+- **Artist Profiles:** View dedicated pages for your favorite artists.
+- **Liked Songs & Recents:** Keep a list of your favorite tracks and quickly access recently played songs.
+- **Social Features:** Create and share posts with the community.
+- **Upcoming Events:** Stay informed about upcoming music events.
+- **Personalization:** Customize your profile and experience.
+- **Multi-Language & Multi-Theme:** Use the app in your preferred language and switch between light and dark modes.
 - **Stunning & Animated UI:** A visually appealing and responsive interface built with a host of animation and UI libraries.
 - **State Management with BLoC:** Predictable and scalable state management using the BLoC (Business Logic Component) pattern.
 - **Push Notifications:** Stay updated with Firebase-powered push notifications.
 - **Feature-Driven Architecture:** A clean and maintainable codebase organized by application features.
 - **Advanced Features:** Includes functionalities like palette generation from album art, cached network images for performance, and more.
+
 
 ## 🏗️ Architecture
 
