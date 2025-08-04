@@ -51,13 +51,15 @@ Dependency injection is handled by `get_it`, which provides a clean way to acces
 
 ## 📸 Screenshots
 
-| | | |
-|:-------------------------:|:-------------------------:|:-------------------------:|
-| <img src="resources/1.jpg" width="260"> | <img src="resources/2.jpg" width="260"> | <img src="resources/3.jpg" width="260"> |
-| <img src="resources/4.jpg" width="260"> | <img src="resources/5.jpg" width="260"> | <img src="resources/6.jpg" width="260"> |
-| <img src="resources/7.jpg" width="260"> | <img src="resources/8.jpg" width="260"> | <img src="resources/9.jpg" width="260"> |
-| <img src="resources/10.jpg" width="260"> | <img src="resources/11.jpg" width="260"> | <img src="resources/12.jpg" width="260"> |
-| <img src="resources/13.jpg" width="260"> | <img src="resources/14.jpg" width="260"> | <img src="resources/15.jpg" width="260"> |
-| <img src="resources/16.jpg" width="260"> | <img src="resources/17.jpg" width="260"> | <img src="resources/18.jpg" width="260"> |
-
+| | |
+|:-------------------------:|:-------------------------:|
+| <img src="resources/1.jpg" width="400"> | <img src="resources/2.jpg" width="400"> |
+| <img src="resources/3.jpg" width="400"> | <img src="resources/4.jpg" width="400"> |
+| <img src="resources/5.jpg" width="400"> | <img src="resources/6.jpg" width="400"> |
+| <img src="resources/7.jpg" width="400"> | <img src="resources/8.jpg" width="400"> |
+| <img src="resources/9.jpg" width="400"> | <img src="resources/10.jpg" width="400"> |
+| <img src="resources/11.jpg" width="400"> | <img src="resources/12.jpg" width="400"> |
+| <img src="resources/13.jpg" width="400"> | <img src="resources/14.jpg" width="400"> |
+| <img src="resources/15.jpg" width="400"> | <img src="resources/16.jpg" width="400"> |
+| <img src="resources/17.jpg" width="400"> | <img src="resources/18.jpg" width="400"> |
 
